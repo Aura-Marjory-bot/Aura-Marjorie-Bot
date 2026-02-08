@@ -1,1 +1,1 @@
-# Aura-Marjorie-Bot
+# Aura-Marjorie-bot
